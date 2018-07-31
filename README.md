@@ -1,4 +1,5 @@
-# Super-Pac-Man-Pygame
-Super Pac-Man game created using Pygame, based on the original Super Pac-Man game.
-
-![ScreenShot](https://raw.github.com/hjung4/Super-Pac-Man-Pygame/master/screenshot.PNG)
+# Pac-Man World
+Series of Pac-Man games created using Pygame, featuring 3 games: Pac-Man, Super Pac-Man, and Professor Pac-Man
+<br><br>
+## Run
+Execute `Pac-Man_World.py` to run the main menu.
