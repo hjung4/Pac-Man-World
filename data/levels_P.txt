@@ -1,0 +1,66 @@
+@ Level 1
+################################
+#OooooooooooooooooooooooooooooO#
+#o####o##o######o###o##o###o##o#
+#o#xx#o##o##xxx#ooooooooBooo##o#
+#o#xx#ooooo#xxx#o####o##-##oooo#
+#o#xx##o##o#xxx#o#xx#o#PCI#o##o#
+#o#xxx#o##o#xxx#o#xx#o#####o##o#
+#o#####o##o#####o####ooooooo##o#
+T*oooooooooooooooooooo#####o##ot
+#o######o###o###o#######o##o##o#
+#o#xxxx#o#x#ooooo#xx####ooooooO#
+#o#xxxx#o#x#o###o####oooo#######
+#o######o###o###oooooo####xxxxxx
+#Oooooooooooooooo######xxxxxxxxx
+##################xxxxxxxxxxxxxx
+
+@ Level 2
+#####################
+#Oooo#ooooooooO#oooo#
+#o##o#o#######o#o##o#
+#o#oooooooooooooo*#o#
+#o#o##ooooooooo##o#o#
+#o#o  oo##-##oo  o#o#
+To o##oo# CI#oo##o ot
+#o#o  oo#####oo  o#o#
+#o#o##ooooooooo##o#o#
+#o#ooooooooooooooo#o#
+#o##o#o#######o#o##o#
+#oooO#ooooooooo#oooO#
+#####################
+
+@ Level 3
+###################
+#ooooooooooooooooo#
+#o##o###o#O###o##o#
+#o##o#O#####o#o##o#
+#oooo#ooo#ooo#oooo#
+####o### # ###o####
+xxx#o#       #o#xxx
+####o# ##-## #o####
+T   o  # CI#  o   t
+####o# ##### #o####
+xxx#o#       #o#xxx
+####o#       #o####
+#oooooooo#oooooooo#
+#o##o###o#o###o##o#
+#Oo#ooooo*ooooo#oO#
+###################
+
+@ Level 4
+################################################
+#Oooooooooooooooooooooooooooooooooooooooooooooo#
+#o##o#########o###########o##### #o#####o#####O#
+#oooo#xxxxxxx#o###########o      #ooooooooooooo#
+####o#x#######ooooooooooooo  B   #o######o######
+xxx#o#x#ooooooo#####o##### ##-## #o#xxxx#o#xxxxx
+####o#x#o#####o#xxx#o#xxx# #PCI# #o#xxxx#o######
+T   o#x#ooO###o#xxx#o#xxx# ##### #o#x####o     t
+####o#x#######o#xxx#o#xxx#       #o#x##x#o######
+xxx#o#xxxxxxx#o#xxx#o#xxx#       #o#xxxx#o#xxxxx
+####o#########o#####o#####       #o######o######
+#oooooooooooooooooooooooooo#####ooooooooooooooo#
+#o###o#########o#o########ooo#ooo##########o##o#
+#Ooooooooooooooo#oooooooooo#o*o#ooooooooooooooO#
+################################################
